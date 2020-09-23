@@ -1,0 +1,5 @@
+This is my first ever submission to Planet Source Code. I have found
+PSC extremely useful over the years, and wanted to contribute back
+to the community. Thanks to all the other generous coders out there.
+This example shows how to make a firewall for XP with iphlpapi, not
+tested in others OS's...
